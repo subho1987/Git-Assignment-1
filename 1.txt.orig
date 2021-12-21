@@ -1,0 +1,6 @@
+This is the first file
+<<<<<<< HEAD
+Adding the first feature f1
+=======
+Adding the second feature
+>>>>>>> f2
